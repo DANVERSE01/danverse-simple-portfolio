@@ -1,0 +1,433 @@
+{
+  "profile": {
+    "headline": "AI-Driven Cinematic Ad Director",
+    "tagline": "Building fast content-and-revenue systems with strict brand discipline.",
+    "bio_short": "I direct cinematic ads powered by AI, engineer rapid content and sales pipelines, and uphold uncompromising brand discipline. My work blends bold visual imagination with fast, precise execution and measurable outcomes that reduce waste.",
+    "cta": {
+      "label": "Work with me",
+      "href": "#contact"
+    }
+  },
+  "stats": {
+    "projects_completed_display": "120+",
+    "projects_completed_min": 120,
+    "client_satisfaction_avg": 4.9,
+    "client_satisfaction_scale": 5,
+    "countries_served": 8,
+    "avg_turnaround_days": 6,
+    "source": "self_reported",
+    "verification": {
+      "status": "pending",
+      "note": "Replace with verified counts/links when available."
+    },
+    "last_updated": "2025-10-28"
+  },
+  "sections": [
+    {
+      "id": "portfolio_grid",
+      "type": "portfolio",
+      "order": 0,
+      "title": "Selected Work",
+      "tagline": "A fast look at recent projects.",
+      "items": [
+        {
+          "title": "SAMPLE – Product Launch Cinematic",
+          "thumb": "/images/portfolio/sample-launch-thumb.jpg",
+          "hero": "/images/portfolio/sample-launch-hero.jpg",
+          "aspect": "16:9",
+          "role": ["Direction", "Editing", "Color"],
+          "year": "2025",
+          "tags": ["Cinematic Ad", "Launch"],
+          "cta": {
+            "label": "View case study",
+            "href": "#case_sample_launch"
+          }
+        }
+      ]
+    },
+    {
+      "id": "service_cinematic_ads",
+      "type": "service",
+      "order": 1,
+      "title": "Cinematic Ads – Fast Turnaround",
+      "tagline": "Short, cinematic videos that create instant demand.",
+      "deliverables": [
+        "Focused concept and concise storyboard",
+        "Tight script with visual direction",
+        "Two final cuts (9:16 and 16:9) with branded end-frame (logo/CTA)",
+        "Up to 3 light revisions"
+      ],
+      "timeline": "5-7 days to first cut",
+      "pricing": {
+        "starting_usd": 450,
+        "base_includes": {
+          "duration_seconds": 10,
+          "simple_shots": 4
+        },
+        "scales_with": "scene length and shot complexity",
+        "increments": [
+          {
+            "type": "duration_per_5s",
+            "add_usd": 70
+          },
+          {
+            "type": "complex_shot",
+            "add_usd_min": 60,
+            "add_usd_max": 120
+          }
+        ],
+        "notes": "Final cost depends on creative complexity, locations, and number of shots."
+      },
+      "cta": {
+        "label": "Request a quick quote",
+        "href": "#contact"
+      }
+    },
+    {
+      "id": "service_brand_identity_motion",
+      "type": "service",
+      "order": 2,
+      "title": "Live Brand Identity + Motion",
+      "tagline": "A cohesive visual system built to perform on video and social.",
+      "deliverables": [
+        "Logo (static) and short animated intro (3–5s)",
+        "Color and typography guidelines",
+        "Core social templates set",
+        "19:6 banners and 3D showcase frames",
+        "Daily-use style guide"
+      ],
+      "timeline": "7-10 days",
+      "pricing": {
+        "starting_usd": 550,
+        "scales_with": "number of applications and motion variants",
+        "increments": [
+          {
+            "type": "extra_motion_variant",
+            "add_usd": 120
+          },
+          {
+            "type": "extra_template_pack",
+            "add_usd": 100
+          },
+          {
+            "type": "product_mockups_pack",
+            "add_usd": 150
+          }
+        ],
+        "notes": "Scope expands with additional assets, motion variants, and applications."
+      },
+      "cta": {
+        "label": "Start your identity",
+        "href": "#contact"
+      }
+    },
+    {
+      "id": "service_mvp_experience",
+      "type": "service",
+      "order": 3,
+      "title": "Service-as-Product MVP Experience",
+      "tagline": "Turn your service into a smooth, semi-automated client journey.",
+      "deliverables": [
+        "Client intake flow and simple forms",
+        "Output templates (texts/files) with approval checkpoints",
+        "Compact landing snippet for sign-ups",
+        "Operational handbook",
+        "Basic performance tracking setup"
+      ],
+      "timeline": "5-10 days",
+      "pricing": {
+        "starting_usd": 725,
+        "scales_with": "number of flows, output types, and languages",
+        "increments": [
+          {
+            "type": "additional_flow",
+            "add_usd": 100
+          },
+          {
+            "type": "additional_output_type",
+            "add_usd": 80
+          },
+          {
+            "type": "additional_language",
+            "add_usd": 100
+          }
+        ],
+        "notes": "Pricing reflects complexity and multi-language requirements."
+      },
+      "cta": {
+        "label": "Transform your service",
+        "href": "#contact"
+      }
+    },
+    {
+      "id": "service_content_engine",
+      "type": "service",
+      "order": 4,
+      "title": "Daily Content Engine (Reels/UGC)",
+      "tagline": "Consistent, high-level posting with hooks and CTAs that convert.",
+      "deliverables": [
+        "Calibrated 9:16 reel templates",
+        "Fast script library (Hook/Story/CTA)",
+        "Lean performance board with best practices",
+        "Kickoff weekly content plan",
+        "First reel delivered"
+      ],
+      "timeline": "First reel within 48 hours",
+      "pricing": {
+        "starting_usd": 350,
+        "scales_with": "number of reels and grading needs",
+        "increments": [
+          {
+            "type": "extra_reel_bundle",
+            "description": "Script and edit per reel",
+            "add_usd": 60
+          },
+          {
+            "type": "advanced_color_grading",
+            "add_usd": 80
+          }
+        ],
+        "notes": "Monthly expansion and volume discounts available."
+      },
+      "cta": {
+        "label": "Activate the engine",
+        "href": "#contact"
+      }
+    },
+    {
+      "id": "service_brand_copilot",
+      "type": "service",
+      "order": 5,
+      "title": "Brand Copilot + Prompt Systems",
+      "tagline": "Instant ad-writing in your brand voice with stable memory for the team.",
+      "deliverables": [
+        "Voice and tone rules (Do/Don't and ready-to-use patterns)",
+        "Prompt library for ads, scripts, and captions",
+        "Easy-access usage channels (web/messages)",
+        "Team playbook",
+        "First-month improvement plan"
+      ],
+      "timeline": "5-7 days",
+      "pricing": {
+        "starting_usd": 425,
+        "scales_with": "channels, memory depth, and scenarios",
+        "increments": [
+          {
+            "type": "additional_usage_channel",
+            "add_usd": 60
+          },
+          {
+            "type": "deeper_memory_scenarios",
+            "add_usd": 120
+          },
+          {
+            "type": "bilingual_setup",
+            "add_usd": 100
+          }
+        ],
+        "notes": "Custom governance and permissions can be added on request."
+      },
+      "cta": {
+        "label": "Boost your team's writing",
+        "href": "#contact"
+      }
+    },
+    {
+      "id": "case_studies",
+      "type": "cases",
+      "order": 6,
+      "title": "Case Studies",
+      "tagline": "Context, constraints, and measurable outcomes.",
+      "items": [
+        {
+          "id": "case_sample_launch",
+          "client": "SAMPLE CLIENT",
+          "project": "Launch Film",
+          "context": "Tight deadline, high visual polish required.",
+          "objective": "Drive first-week orders with a 10–15s cinematic spot.",
+          "approach": [
+            "Condensed storyboard built around one core visual metaphor",
+            "Lean shoot plan with minimal but striking shots",
+            "Color treatment and end-frame designed for conversion"
+          ],
+          "result": {
+            "metrics": [
+              "CTR: +SAMPLE_42pct",
+              "View-through: +SAMPLE_31pct",
+              "First-week orders: SAMPLE_120"
+            ],
+            "note": "Replace SAMPLE_* with real numbers."
+          },
+          "media": [
+            {
+              "label": "Final cut (9:16)",
+              "url": "/videos/sample-9x16.mp4"
+            },
+            {
+              "label": "Final cut (16:9)",
+              "url": "/videos/sample-16x9.mp4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "testimonials",
+      "type": "testimonials",
+      "order": 7,
+      "title": "What Clients Say",
+      "tagline": "Across the Middle East and beyond.",
+      "items": [
+        {
+          "name": "Lina A.",
+          "role": "CMO, Retail Group",
+          "location": "Dubai, UAE",
+          "rating": 5,
+          "quote": "Sharp storytelling, cinematic polish, and a clean path to conversion. We saw impact within days."
+        },
+        {
+          "name": "Fahd M.",
+          "role": "Marketing Director, F&B",
+          "location": "Riyadh, KSA",
+          "rating": 5,
+          "quote": "Fast, disciplined, and on-brand. The end-frames and hooks lifted our CTR noticeably."
+        },
+        {
+          "name": "Nour H.",
+          "role": "Founder, Boutique Studio",
+          "location": "Cairo, Egypt",
+          "rating": 5,
+          "quote": "Clear process, no fluff. We got exactly what we needed–on time and ready to launch."
+        },
+        {
+          "name": "Omar A.",
+          "role": "Head of Growth, Tech Startup",
+          "location": "Doha, Qatar",
+          "rating": 4.8,
+          "quote": "Lean production with premium feel. The content engine kept our cadence effortless."
+        },
+        {
+          "name": "Sarah P.",
+          "role": "Creative Producer",
+          "location": "Los Angeles, USA",
+          "rating": 4.9,
+          "quote": "Cinematic craft meets business sense. Efficient, collaborative, and results-focused."
+        },
+        {
+          "name": "James R.",
+          "role": "Head of Digital",
+          "location": "London, UK",
+          "rating": 4.9,
+          "quote": "Disciplined brand thinking with striking visuals. Smooth, well-documented delivery."
+        }
+      ]
+    },
+    {
+      "id": "process",
+      "type": "process",
+      "order": 8,
+      "title": "How We Work",
+      "tagline": "Clarity, speed, and discipline.",
+      "steps": [
+        {
+          "title": "01 – Discovery",
+          "desc": "Goal, audience, constraints, timing, and must-haves."
+        },
+        {
+          "title": "02 – Framing",
+          "desc": "Concept + micro-storyboard + look & feel alignment."
+        },
+        {
+          "title": "03 – Build",
+          "desc": "Production, iteration, and on-point revisions."
+        },
+        {
+          "title": "04 – Deliver",
+          "desc": "Final masters, end-frames, and rollout guidance."
+        }
+      ]
+    },
+    {
+      "id": "faqs",
+      "type": "faq",
+      "order": 10,
+      "title": "FAQs",
+      "items": [
+        {
+          "q": "How is pricing calculated?",
+          "a": "Each service has a low entry price that scales with scene length and shot complexity. Shorter, simpler pieces cost less; longer or more complex scenes add incremental fees."
+        },
+        {
+          "q": "What's included in revisions?",
+          "a": "Light, directional tweaks aligned to the agreed concept (up to the stated count). Concept pivots or new scenes are billed as scope additions."
+        },
+        {
+          "q": "Do I get source files?",
+          "a": "Final deliverables and editable templates are included. Raw project files are available upon request with an additional fee."
+        },
+        {
+          "q": "Usage rights?",
+          "a": "Full brand usage for paid deliverables across web and social by default. Broadcast/out-of-home or paid media packages can be added if needed."
+        },
+        {
+          "q": "Typical turnaround?",
+          "a": "Cinematic shorts: 5–7 days to first cut. Identity: 7–10 days. Content Engine: first reel within 48 hours."
+        }
+      ]
+    },
+    {
+      "id": "policies",
+      "type": "policies",
+      "order": 11,
+      "title": "Policies",
+      "items": [
+        {
+          "title": "Payment Schedule",
+          "desc": "50% to book, 50% on delivery. Rush or phased billing available on request."
+        },
+        {
+          "title": "Scope Control",
+          "desc": "Deliverables and revision counts are defined up front. Add-ons are priced clearly before work proceeds."
+        },
+        {
+          "title": "Cancellations",
+          "desc": "If cancelled after kickoff, work completed to date is invoiced; remaining is released."
+        },
+        {
+          "title": "Confidentiality",
+          "desc": "All assets and briefs remain confidential unless you approve public sharing."
+        }
+      ]
+    },
+    {
+      "id": "contact",
+      "type": "contact",
+      "order": 13,
+      "title": "Contact",
+      "tagline": "Reach out directly–fast response.",
+      "channels": [
+        {
+          "label": "Instagram",
+          "handle": "@muhammedd_adel",
+          "href": "https://www.instagram.com/muhammedd_adel?igsh=aHo1YmZ3bm1ycnJ2&utm_source=qr"
+        },
+        {
+          "label": "Email (Primary)",
+          "address": "mohamed.adel1160@icloud.com",
+          "href": "mailto:mohamed.adel1160@icloud.com"
+        },
+        {
+          "label": "Email (Secondary)",
+          "address": "versedan13@gmail.com",
+          "href": "mailto:versedan13@gmail.com"
+        },
+        {
+          "label": "WhatsApp",
+          "number": "+201207346648",
+          "href": "https://wa.me/201207346648"
+        }
+      ],
+      "note": "Preferred: WhatsApp or Instagram DM for fast coordination."
+    }
+  ]
+}
